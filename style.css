@@ -1,0 +1,114 @@
+/* font-family: 'Kanit', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Share Tech Mono', monospace; */
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    /* background-image: url(/bg-img.jpg); */
+    background-color: #c8eeff;
+}
+
+header {
+    background-color: #00158b;
+    color: #dbcbb5;
+    padding: 20px;
+}
+
+
+
+section, header h1 {
+    margin: 0 10%;
+}
+
+.container {
+    border: 1px solid #5f5f5f;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.colour-container {
+    width: 100%;
+}
+
+.colour-box {
+    display: inline-block;
+    width: 31%;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.blue {
+    background-color: #4983ff;
+    color: #fff;
+}
+
+.green {
+    background-color: #41d641;
+}
+
+.red {
+    background-color: #b31313;
+}
+
+.yellow {
+    background-color: #ffff44;
+}
+
+.purple {
+    background-color: #633d63;
+    color: #fff;
+}
+
+.font-box {
+    width: 45%;
+    display: inline-block;
+}
+
+.font-name {
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.css-rule {
+    font-size: 14px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.kanit {
+    font-family: 'Kanit', sans-serif; 
+}
+
+.share-tech-mono {
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.heading h1 {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.subheading h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.paragraph p {
+    font-weight: 400;
+    font-size: 13px;
+    font-family: 'Kanit', sans-serif;
+}
